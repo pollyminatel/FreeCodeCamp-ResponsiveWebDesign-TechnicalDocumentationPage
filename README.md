@@ -1,4 +1,4 @@
-## Final Challenge from FreeCodeCamp HTML / CSS Responsive Web Design course
+## Third Challenge from FreeCodeCamp HTML / CSS Responsive Web Design course
 
 ### Overview
 This project is the third challenge of the FreeCodeCamp HTML / CSS Responsive Web Design course, which aims to exercise development using CSS Pseudo Selectors, intermediate CSS and Responsive Web Design.
